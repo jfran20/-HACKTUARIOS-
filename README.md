@@ -3,8 +3,8 @@
 ## SET UP:
  1. Create venv: 
     1. Windows: **python -m venv .venv** 
- 2. Download libraries:
-    2. write **pip install -r requirements.txt**
+ 2. Download libraries: **pip install -r requirements.txt**
+
  # TO DO
   * Scrap PDF
   * Get Info
