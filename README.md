@@ -16,4 +16,5 @@
 ### Considerations
 * Name for venv install .venv if other add to **.gitignore**
 * If you need libraries add them to requirments.txt **pip freeze > requirements.txt**
+* If you need to 'clean' your pip **pip uninstall -r requirments.txt -y**
 * Comment all!
