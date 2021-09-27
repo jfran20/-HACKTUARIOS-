@@ -11,8 +11,6 @@
   * Escribir a Excell
   * Crear reporte
 
-
-
 ### Consideraciones
 * Nombre para venv install .venv si eligen otro agregenlo a **.gitignore**
 * Si requieren otro paquete agregenlo a requirments.txt **pip freeze > requirements.txt**
