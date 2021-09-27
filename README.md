@@ -5,7 +5,7 @@
     1. Windows: **python -m venv .venv** 
  2. Descargar los paquetes: **pip install -r requirements.txt**
 
- # TO DO
+ ## TO DO
   * Scrap PDF
   * Obtener la informacion
   * Escribir a Excell
