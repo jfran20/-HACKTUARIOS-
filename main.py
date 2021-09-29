@@ -16,7 +16,7 @@ for i,my_file in enumerate(os.listdir('PDF')):
         break
 
     # Realizamos la escritura a un archivo txt
-    new_path = './Preprocesados/' + my_file.strip('.pdf') + '.txt'
+    new_path = './Preprocesados/' + my_file.strip('.pdf') + '.txt' # ===> Ubicacion del nuevo archivo
     with open(new_path, 'w',encoding='utf8') as f:
         f.write(raw['content'])
     print('Escritura exitosa')
@@ -28,3 +28,5 @@ for i,my_file in enumerate(os.listdir('PDF')):
             if line.split():
                 new_f.write(line)
     print('Preprocesado exitoso \n')
+
+
