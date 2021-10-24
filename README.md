@@ -1,10 +1,5 @@
-# -HACKTUARIOS-
+# Vinculación rentable
+## -HACKTUARIOS-
+## Tribu: Marlins
 
-## Archivos:
- 1. Datos Sociodemograficos
- 2. Adicional
- 3. Productos BBVA
- 4. Rentabilidad Cliente
- 5. Rentabilidad Producto x Cliente
- 6. Transacciones Cliente 
- 7. Creditos en SSFF
+Dashboard para el reto de vinculacion rentable 2021 realizado con R para el analisis de datos
